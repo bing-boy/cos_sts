@@ -7,7 +7,7 @@
 <title>index</title>
 </head>
 <body>
-	<form action="/sts/getSts" method="post">
+	<form action="/cos_sts/getSts" method="post">
 		bucket:<input name="bucket" type="text">
 		region:<input name="region" type="text">
 		exprience:<input name="exp" type="text">
